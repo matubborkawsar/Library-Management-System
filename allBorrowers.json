@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Kawsar",
+        "phone": "123",
+        "book": "Book 1",
+        "borrowed": 5
+    },
+    {
+        "name": "Harun",
+        "phone": "456",
+        "book": "Book 1",
+        "borrowed": 2
+    },
+    {
+        "name": "Rahim",
+        "phone": "789",
+        "book": "Book 1",
+        "borrowed": 0
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "isbn": 6236,
+        "title": "Book 1",
+        "author": "Author 1",
+        "price": "120",
+        "quantity": 20,
+        "createAt": "14-12-2024 20:34:59"
+    },
+    {
+        "isbn": 3586,
+        "title": "Book 5",
+        "author": "Author 5",
+        "price": "450",
+        "quantity": 120,
+        "createAt": "17-12-2024 12:19:49"
+    }
+]
